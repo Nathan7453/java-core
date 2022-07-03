@@ -18,6 +18,10 @@ com.nathan.core
     ├─ collection(Collection)
     ├─ generic(泛型)
     ├─ io(I/O)
+    │    ├─ (字节流)
+    │    └─ (字符流)
     ├─ net(网络编程)
     └─ juc(Java)
+        ├─ thread
+        └─ 
 ```
