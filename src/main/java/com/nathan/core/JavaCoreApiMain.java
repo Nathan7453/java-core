@@ -1,5 +1,8 @@
 package com.nathan.core;
 
+/**
+ * Java 核心变成API探索
+ */
 public class JavaCoreApiMain {
 
     public static void main(String[] args) {
