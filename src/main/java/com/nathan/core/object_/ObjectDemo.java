@@ -25,7 +25,7 @@ package com.nathan.core.object_;
 public class ObjectDemo {
 
     public static void main(String[] args) {
-        GcObject gc = new GcObject();
+        Object gc = new GcObject();
         gc = null;
         System.gc();
     }
